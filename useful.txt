@@ -6,5 +6,3 @@ yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" "h
 
 yt-dlp -f bestaudio --extract-audio --audio-format mp3 "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID"
 # Download whole playlist
-
-.
