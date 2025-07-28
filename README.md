@@ -1,7 +1,7 @@
 # YouTube Downloader
 A simple Python script to download either mp3s or mp4s from YouTube.
 
-![static/menu_screenshot](src/static/menu_screenshot.png)
+![static/menu_screenshot](static/menu_screenshot.png)
 
 ## Table of Contents
 - [Installation](#installation)
